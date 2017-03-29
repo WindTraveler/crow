@@ -6,5 +6,5 @@ require.config({
 });
 
 require(["jquery"], function () {
-    $("#title").text("誓词");
+    //$("#title").text("誓词");
 });
